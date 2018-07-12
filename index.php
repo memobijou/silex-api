@@ -1,4 +1,5 @@
 <?php
+echo "hello world! 123";
 /*
 require 'vendor/autoload.php';
 
@@ -10,5 +11,5 @@ $app->get('/hello/{name}', function ($request, $response, $args) {
 
 $app->run();
 */
-<h1>Hello World!</h1>
 ?>
+<h1>Hello World!</h1>
